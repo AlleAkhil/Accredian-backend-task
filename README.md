@@ -9,13 +9,13 @@ EMAIL_USER=your-email@example.com,
 EMAIL_PASS=your-email-password, 
 PORT=5000
 
-Environment Variables
+Environment Variables :-
 DATABASE_URL: The connection string for the MySQL database, 
 EMAIL_USER: The email address used for sending referral emails, 
 EMAIL_PASS: The password for the email address, 
 PORT: The port on which the server will run.
 
-Dependencies
+Dependencies :-
 Express, 
 Prisma, 
 MySQL, 
